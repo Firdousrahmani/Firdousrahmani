@@ -1,6 +1,7 @@
 ![logo](https://github.com/Firdousrahmani/firdous77/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image%20(1).png)
-<h1 align="center">Hi , I'm Firdous Rahmani</h1>
-<h3 align="center">Aspiring Data Analyst>
+
+Hi , I'm Firdous Rahmani</h1>
+Aspiring Data Analyst
 
 
 
