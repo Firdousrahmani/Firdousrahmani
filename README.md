@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firdousrahmani&label=Profile%20views&color=0e75b6&style=flat" alt="firdousrahmani" /> </p>
 
-- I’m currently learning **Power Bi and Tableau**
+- I’m currently sharpening ** My data Anylitical skill **
 
 - I regularly write articles on [https://medium.com/@rahmanifirdous77](https://medium.com/@rahmanifirdous77)
 
