@@ -7,7 +7,7 @@
 
 - I’m currently sharpening ** My data Anylitical skill **
 
-- I regularly write articles on [https://medium.com/@rahmanifirdous77](https://medium.com/@rahmanifirdous77)
+- I sometimes writes on [https://medium.com/@rahmanifirdous77](https://medium.com/@rahmanifirdous77)
 
 - Ask me about **Data insights and Analysis**
 
